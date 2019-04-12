@@ -1,4 +1,12 @@
-# DRAFT: Open-Insurance Day - no. 01
+# Open-Insurance Day - no. 01
+
+## date
+
+### 09th May 2019
+
+## time
+
+### 8:00 - 16:30 
 
 ## location
 ```
@@ -9,19 +17,32 @@ CH-4002 Basel
 Switzerland
 ```
 
+## format
+
+### co-hosted with [Open X-Day aka Open Friday](https://www.openfriday.org)
+
 ## agenda
 
-|      time     |             topic            |           speaker          |                                            reference(s)                                            |
-|:-------------:|:----------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------:|
-|  9.00 - 9.15  |        welcome & intro       |           Baloise          |                                                                                                    |
-|  9.15 - 10.00 | IoT & digital transformation | Bosch Software Innovations |                  https://www.bosch-si.com/iot-platform/iot-platform/open/iot.html                  |
-| 10.00 - 10.45 |        Open Innovation       |     Eclipse Foundation     |                                 https://www.eclipse.org/org/value/                                 |
-| 10.45 - 11.00 |       **coffee break**       |                            |                                                                                                    |
-| 11.00 - 11.45 |              ABS             |           Allianz          | https://www.allianz.com/en/press/news/business/insurance/180129-allianz-sets-up-open-platform.html |
-| 11.45 - 12.30 |                              |           RedHat           |                                                                                                    |
-| 12.30 - 13.30 |           **lunch**          |                            |                                                                                                    |
-| 13.30 - 14.15 |             IiaB             |           Baloise          |                                                                                                    |
-| 14.15 - 15.00 |             OPIN             |                            |                                      https://openinsurance.io                                      |
-| 15.00 - 15.45 |          OpenCologne         |                            |                        http://www.mobinauten.de/opencologne/opencologne.html                       |
-| 15.45 - 16.00 |             outro            |           Baloise          |                                                                                                    |
-|  16.00 - EOB  |           **apero**          |                            |                                                                                                    |
+### morning
+
+|      time     |                       what                      |                                        who                                       |
+|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
+|  8.00 - 8.30  |                     arrival                     |                                        ---                                       |
+|  8.30 - 9.00  |                     pitching                    |                                        all                                       |
+|  9.00 - 9.15  |                 welcome & intro                 |                                      Baloise                                     |
+|  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services bei Bosch Software Innovations |                                    |
+| 10.00 - 11.00 |         Open Innovation - Working Groups        |                                Eclipse Foundation                                |
+| 11.00 - 12.00 |                                                 |                                      Baloise                                     |
+| 12.00 - 13.00 |                    **lunch**                    |                                        all                                       |
+
+## afternoon - open space / participation @ X-Day
+
+|      time     |                       what                      |                                        who                                       |
+|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
+| 13.00 - 14.00 |                                                 |                                                                                  |
+| 14.00 - 15.00 |                                                 |                                                                                  |
+| 15.00 - 16.00 |                                                 |                                                                                  |
+| 16.00 - 16.15 |                wrap-up & feedback               |                                      Baloise                                     |
+|  16.00 - EOB  |                    **apero**                    |                                      Baloise                                     |
+
+## register here
