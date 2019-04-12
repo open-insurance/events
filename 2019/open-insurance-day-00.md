@@ -32,7 +32,7 @@ Switzerland
 |  8.00 - 8.30  |                     arrival                     |                                        ---                                       |
 |  8.30 - 9.00  |                    pitching                     |                                 interested speaker                               |
 |  9.00 - 9.15  |                 welcome & intro                 |                                      Baloise                                     |
-|  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services bei Bosch Software Innovations |                                    |
+|  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services bei Bosch Software Innovations |
 | 10.00 - 11.00 |         Open Innovation - Working Groups        |                                Eclipse Foundation                                |
 | 11.00 - 12.00 |                                                 |                                      Baloise                                     |
 | 12.00 - 13.00 |                    **lunch**                    |                                        all                                       |
