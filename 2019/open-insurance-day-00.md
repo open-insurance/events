@@ -36,7 +36,7 @@ Switzerland
 |  9.00 - 9.15  |                 welcome & intro                 |                                      Baloise                                     |
 |  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
 | 10.00 - 11.00 |         Open Innovation - Working Groups        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
-| 11.00 - 12.00 |                                                 |                                      Baloise                                     |
+| 11.00 - 12.00 |         Open-Source Enablement - Wrap Up        |                                      Baloise                                     |
 | 12.00 - 13.00 |                    **lunch**                    |                                        all                                       |
 
 ## afternoon - open space & participation @ X-Day
