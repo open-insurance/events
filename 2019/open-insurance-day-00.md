@@ -35,7 +35,8 @@ Switzerland
 |  8.30 - 9.00  |                    pitching                     |                                 interested speaker                               |
 |  9.00 - 9.15  |                 welcome & intro                 |                                      Baloise                                     |
 |  9.15 - 10.00 | [Bosch pursues an open strategy to transform IoT](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/) | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
-| 10.00 - 11.00 |         [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
+| 10.00 - 10.40 |         [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
+| 10.40 - 11.00  |                    **coffee**                    |                                    Baloise                                     |
 | 11.00 - 12.00 |         Open-Source Enablement - Wrap Up        |                                      Baloise                                     |
 | 12.00 - 13.00 |                    **lunch**                    |                                        all                                       |
 
