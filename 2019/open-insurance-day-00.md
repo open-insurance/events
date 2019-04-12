@@ -1,4 +1,4 @@
-# Open-Insurance Day - no. 01
+# Open-Insurance Day - 01
 
 # please register → [here](https://www.eventbrite.com/e/open-insurance-day-01-registration-60297526525) ← for free
 
@@ -34,8 +34,8 @@ Switzerland
 |  8.00 - 8.30  |                     arrival                     |                                        ---                                       |
 |  8.30 - 9.00  |                    pitching                     |                                 interested speaker                               |
 |  9.00 - 9.15  |                 welcome & intro                 |                                      Baloise                                     |
-|  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services bei Bosch Software Innovations |
-| 10.00 - 11.00 |         Open Innovation - Working Groups        |                                Eclipse Foundation                                |
+|  9.15 - 10.00 | Bosch pursues an open strategy to transform IoT | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
+| 10.00 - 11.00 |         Open Innovation - Working Groups        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
 | 11.00 - 12.00 |                                                 |                                      Baloise                                     |
 | 12.00 - 13.00 |                    **lunch**                    |                                        all                                       |
 
