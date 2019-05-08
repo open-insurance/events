@@ -40,5 +40,13 @@ first follow up event
 
 ## orga
 
----
+morning in APA 028
+
+lunch ~ 12.15
+
+afternoon according to X-Day plan
+
+free to join any session
+
+---?image=https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg&size=contain
 
