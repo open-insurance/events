@@ -35,4 +35,4 @@ AXA, KASKO, ...: [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
 [IFRS](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
-[Commission](https://en.wikipedia.org/wiki/Commission_(remuneration))
+[Commission](https://en.wikipedia.org/wiki/Commission#Business)
