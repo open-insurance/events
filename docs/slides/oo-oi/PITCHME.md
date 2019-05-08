@@ -9,9 +9,9 @@
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
-+++?image=https://static.schoener-wohnen.de/bilder/43/fc/4506/facebook_image/umzug-renovieren.jpg&size=contain
-
 ## [open-insurance.org](https://open-insurance.org)
+
++++?image=https://static.schoener-wohnen.de/bilder/43/fc/4506/facebook_image/umzug-renovieren.jpg&size=contain
 
 +++?image=https://media2.bauemotion.de/m6/36/59936/images/15/15172315px1440x1294.jpg&size=contain
 
@@ -25,10 +25,6 @@ Allianz: [sets up open platform](https://www.allianz.com/en/press/news/business/
 
 AXA, KASKO, Friendsurance, Generali, ...: [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
-### neutral
-
 https://openinsurance.io
 
 https://www.finos.org
-
-...
