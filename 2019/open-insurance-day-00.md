@@ -37,8 +37,8 @@ Switzerland
 |  9.10 - 10.00 | [Bosch pursues an open strategy to transform IoT](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/) | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
 | 10.00 - 10.40 |         [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
 | 10.40 - 11.00 |                 **coffee break**                |                                       all                                        |
-| 11.00 - 12.00 | [Open-Organization & Open-Insurance](https://gitpitch.com/open-insurance/events/master?p=docs/slides/oo-oi) |            Baloise   |
-| 12.00 - 13.00 |                    **lunch**                    |                                       all                                        |
+| 11.00 - 12.15 | [Open-Organization & Open-Insurance](https://gitpitch.com/open-insurance/events/master?p=docs/slides/oo-oi) |            Baloise   |
+| 12.15 - 13.00 |                    **lunch**                    |                                       all                                        |
 
 ## afternoon - open space & participation @ X-Day
 
