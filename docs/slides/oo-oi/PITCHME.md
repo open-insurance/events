@@ -19,11 +19,13 @@
 
 +++
 
-https://open-insurance.org
+Baloise: https://open-insurance.org
 
-[Allianz sets up open platform](https://www.allianz.com/en/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
+Allianz: [sets up open platform](https://www.allianz.com/en/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
 
-[OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+AXA, KASKO, Friendsurance, Generali, ...: [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+
+### neutral
 
 https://openinsurance.io
 
