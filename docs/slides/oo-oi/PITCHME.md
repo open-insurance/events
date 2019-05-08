@@ -15,8 +15,6 @@
 
 +++?image=https://media2.bauemotion.de/m6/36/59936/images/15/15172315px1440x1294.jpg&size=contain
 
-+++?image=https://media2.bauemotion.de/m6/36/59936/images/15/15172315px1440x1294.jpg&size=contain
-
 +++?image=https://media.real-onlineshop.de/images/items/1024x1024/c4dd3a9e5fc681b18f9d492f11553246.jpg&size=contain
 
 +++
