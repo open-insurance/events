@@ -26,13 +26,15 @@ first follow up event
 
 # agenda
 
-two input sessions
+4 sessions
 
-## BOSCH
+### BOSCH and IOT
 
-## Eclipse Foundation
+### Working Groups @ Eclipse Foundation
 
-## open dialog / exchange
+### open dialog / exchange
+
+### RedHat CoPs
 
 ---
 
