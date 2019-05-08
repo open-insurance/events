@@ -1,8 +1,7 @@
 ---
 
-## Open
-### -Organization
-### -Insurance
+### Open-Insurance
+#### Open-Organization
 
 +++
 
