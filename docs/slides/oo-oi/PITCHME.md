@@ -28,3 +28,11 @@ https://openinsurance.io
 https://www.finos.org
 
 AXA, KASKO, ...: [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+
++++
+
+### potential (project) building ground
+
+[IFRS](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
+
+[Commission](https://en.wikipedia.org/wiki/Commission_(remuneration))
