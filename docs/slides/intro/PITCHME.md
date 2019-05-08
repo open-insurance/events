@@ -1,3 +1,3 @@
----?image=https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png&size=contain
+![](https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png)
 
-# @color[#000000](Open-Insurance Day 01)
+# @color[#000000](Day 01)
