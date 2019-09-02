@@ -1,6 +1,6 @@
 # Open-Insurance Day - 02
 
-# please register → [here]() ← for free
+# please register → [here](https://www.eventbrite.com/e/71253502143/) ← for free
 
 ## date
 
