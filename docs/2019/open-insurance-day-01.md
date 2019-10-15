@@ -38,7 +38,9 @@ Switzerland
 |      ...      | 11.00 - 12.00 | Moving a traditional insurance ERP towards cloud native  |  [Matthias Zimmermann](https://www.linkedin.com/in/matthias-zimmermann-00047430/) - Head Architecture and Research at Adcubum AG |
 |               | 12.00 - 13.00 |                    **lunch**                    |                                       all                                        |
 
-## afternoon - open space & participation @ X-Day
+## afternoon
+
+open space & participation @ X-Day
 
 | location (APA)|      time     |                       what                      |                                        who                                       |
 |:-------------:|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
