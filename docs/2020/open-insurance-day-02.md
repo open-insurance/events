@@ -40,7 +40,8 @@ Switzerland
 | 11.00 - 12.15 |                                                 |                                                                                  |
 | 12.15 - 13.00 |                    **lunch**                    |                                       all                                        |
 
-## afternoon - open space & participation @ X-Day
+## afternoon
+open space & participation @ X-Day
 
 |      time     |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
