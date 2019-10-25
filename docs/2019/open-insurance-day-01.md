@@ -22,6 +22,7 @@ Switzerland
 ## agenda
 
 ### morning
+
 | location (APA)|      time     |                       what                      |                                        who                                       |
 |:-------------:|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |    A**63**    |  8.00 - 8.30  |                     arrival                     |                                        ---                                       |
@@ -34,6 +35,7 @@ Switzerland
 |               | 12.00 - 13.00 |                    **lunch**                    |                                       all                                        |
 
 ## afternoon
+
 | location (APA)|      time     |                       what                      |                                        who                                       |
 |:-------------:|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |    A**64**    | 13.00 - 14.00 | Introduction to [APOSIN](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
