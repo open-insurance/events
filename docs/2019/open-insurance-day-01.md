@@ -1,14 +1,14 @@
 # Open-Insurance Day - 02
 
+### co-hosted with Open X-Day aka [Open Friday](https://www.openfriday.org)
+
 # please register → [here](https://www.eventbrite.com/e/71253502143/) ← for free
 
-## date
-
-### 21st November 2019
-
-## time
-
-### 8:00 - 16:30 
+## date & time
+``` 
+21st November 2019
+8:00 - 16:30 
+```
 
 ## location
 ```
@@ -19,14 +19,9 @@ CH-4002 Basel
 Switzerland
 ```
 
-## format
-
-### co-hosted with Open X-Day aka [Open Friday](https://www.openfriday.org)
-
 ## agenda
 
 ### morning
-
 | location (APA)|      time     |                       what                      |                                        who                                       |
 |:-------------:|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |    A**63**    |  8.00 - 8.30  |                     arrival                     |                                        ---                                       |
@@ -39,9 +34,6 @@ Switzerland
 |               | 12.00 - 13.00 |                    **lunch**                    |                                       all                                        |
 
 ## afternoon
-
-open space & participation @ X-Day
-
 | location (APA)|      time     |                       what                      |                                        who                                       |
 |:-------------:|:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |    A**64**    | 13.00 - 14.00 | Introduction to [APOSIN](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
