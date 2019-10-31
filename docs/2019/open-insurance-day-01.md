@@ -28,7 +28,7 @@ Switzerland
 |  A**63** |  8.00 - 8.30  |                  arrival                        | ---                                                                              |
 |    ...   |  8.30 - 9.00  |                  pitching                       | all                                                                              |
 |    ...   |  9.00 - 9.10  |                 welcome & intro                 |         Baloise                                                                  |
-|    ...   |  9.10 - 10.00 | Introduction to Open-Insurance Initiative (OPIN)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
+|    ...   |  9.10 - 10.00 | Introduction to [Open-Insurance Initiative (OPIN)](https://openinsurance.io)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
 |    ...   |  10.00 - 10.40 |   open discussion about Open-Insurance Vision   |                                       all                                        |
 |  A**64** |  10.40 - 11.00 |                 **coffee break**                |                                       all                                        |
 |    ...   |  11.00 - 12.00 | Moving a traditional insurance ERP towards cloud native  |  [Matthias Zimmermann](https://www.linkedin.com/in/matthias-zimmermann-00047430/) - Head Architecture and Research at Adcubum AG |
