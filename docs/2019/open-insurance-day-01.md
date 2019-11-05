@@ -43,7 +43,8 @@ Switzerland
 |      time     |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 | 13.00 - 14.00 | Introduction to [APOSIN](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
-| 14.00 - 15.00 |        open discussion about APOSIN             |                                       all                                        |
+| 14.00 - 14.40 |        open discussion about APOSIN             |                                       all                                        |
+| 14.40 - 15.00 |                 **coffee break**                |                                       all                                        |
 | 15.00 - 16.00 | Insurance alone is not enough! From managing policies to managing risks: [InConnect](https://www.inconnect.io) | [Onno Bloemers](https://www.linkedin.com/in/onnobloemers/) - Insurance Transformation |
 | 16.00 - 16.15 |                wrap up & feedback               |                                      Baloise                                     |
 |  16.00 - EOB  |                    **apero**                    |                                      Baloise                                     |
