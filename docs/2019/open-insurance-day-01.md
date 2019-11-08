@@ -33,7 +33,7 @@ Switzerland
 |  9.10 - 10.00 | Introduction to [Open-Insurance Initiative (OPIN)](https://openinsurance.io)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
 |  10.00 - 10.40 |   open discussion about Open-Insurance Initiative |                                     all                                       |
 |  10.40 - 11.00 |                 **coffee break**                |                                       all                                       |
-|  11.00 - 12.00 | Moving a traditional insurance ERP towards cloud native  |  [Matthias Zimmermann](https://www.linkedin.com/in/matthias-zimmermann-00047430/) - Head Architecture and Research at Adcubum AG |
+|  11.00 - 12.00 | Insurance alone is not enough! From managing policies to managing risks: [InConnect](https://www.inconnect.io) | [Onno Bloemers](https://www.linkedin.com/in/onnobloemers/) - Insurance Transformation, Innovative Risk & Prevention Solutions, Consultancy, InsurTech, Co-Author InsurTECH Book |
 |  12.00 - 13.00 |                    **lunch**                    |                                       all                                       |
 
 ## afternoon
@@ -42,9 +42,9 @@ Switzerland
 
 |      time     |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
-| 13.00 - 14.00 | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
-| 14.00 - 14.40 | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
+| 13.00 - 14.00 | Open Banking : an Introduction and Overview | [Frederik Gregaard](https://www.linkedin.com/in/gregaard/) - PwC Switzerland - Head Digital Financial Services; Director Advisory |
+| 14.00 - 14.40 | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
 | 14.40 - 15.00 |                **coffee break**                 |                                       all                                        |
-| 15.00 - 16.00 | Insurance alone is not enough! From managing policies to managing risks: [InConnect](https://www.inconnect.io) | [Onno Bloemers](https://www.linkedin.com/in/onnobloemers/) - Insurance Transformation, Innovative Risk & Prevention Solutions, Consultancy, InsurTech, Co-Author InsurTECH Book |
+| 15.00 - 16.00 | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
 | 16.00 - 16.15 |                wrap up & feedback               |                                      Baloise                                     |
 |  16.00 - EOB  |                    **apero**                    |                                      Baloise                                     |
