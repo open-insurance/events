@@ -43,8 +43,8 @@ Switzerland
 |      time     |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 | 13.00 - 14.00 | Open Banking : an Introduction and Overview | [Frederik Gregaard](https://www.linkedin.com/in/gregaard/) - PwC Switzerland - Head Digital Financial Services; Director Advisory |
-| 14.00 - 14.40 | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
-| 14.40 - 15.00 |                **coffee break**                 |                                       all                                        |
-| 15.00 - 16.00 | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
+| 14.00 - 15.00 | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
+| 15.00 - 15.20 |                **coffee break**                 |                                       all                                        |
+| 15.20 - 16.00 | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
 | 16.00 - 16.15 |                wrap up & feedback               |                                      Baloise                                     |
 |  16.00 - EOB  |                    **apero**                    |                                      Baloise                                     |
