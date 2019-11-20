@@ -29,11 +29,11 @@ apero: 4th floor ~ 16
 
 ---
 
-??? --> ask immediately
+??? → ask immediately
 
 Q&A : [menti.com](https://www.mentimeter.com/s/fa3894e1183fb6ab72588edc30c8ca58/657ffeb39be7)
 
---> Comments / Discussion
+→ Comments / Discussion
 
 +++?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
 
@@ -41,11 +41,11 @@ Q&A : [menti.com](https://www.mentimeter.com/s/fa3894e1183fb6ab72588edc30c8ca58/
 
 ---
 
-??? --> ask immediately
+??? → ask immediately
 
 Q&A : [menti.com](https://www.mentimeter.com/s/4d603644c90bcc8d434a2048587bfe8f/b0f3ce51b26c)
 
---> Comments / Discussion
+→ Comments / Discussion
 
 +++
 
