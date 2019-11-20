@@ -27,8 +27,6 @@ Software and Business Engineering CC
 
 apero: 4th floor ~ 16
 
-+++
-
 ---
 
 ??? --> ask immediately
