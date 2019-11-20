@@ -14,29 +14,23 @@ Markus Tiede and Ralf Fahney, Baloise Group
 
 # agenda
 
-4 sessions
+#### OPIN ~ 9 - 10.40
 
-#### OPIN ~ 9 - 11
+**coffee** ~ 10.40 - 11
 
 #### InConnect ~ 11 - 12
+
+**lunch** ~ 12.00 - 12.50
 
 #### OpenBanking ~ 13 - 14
 
 #### APOSIN ~ 14 - 16
 
----
-
-## orga
-
-morning: APA A63 & A64 (from 11-12)
-
-lunch ~ 12.00 - 12.50
-
-afternoon: APA 029
+**coffee** ~ 15.00 - 15.20
 
 apero: 4. OG ~ 16.00
 
-free to join any session
++++
 
 ---?image=https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg&size=contain
 
