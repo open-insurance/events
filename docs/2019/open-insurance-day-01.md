@@ -2,8 +2,6 @@
 
 ### co-hosted with Open X-Day aka [Open Friday](https://www.openfriday.org)
 
-# please register → [here](https://www.eventbrite.com/e/71253502143/) ← for free
-
 ## date & time
 ``` 
 21st November 2019
