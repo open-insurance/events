@@ -1,24 +1,12 @@
 ---?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
 
 +++
-# welcome & intro
-## day 01
+## welcome & intro
+### day 02
 
-Markus Tiede and Matthias Cullmann, Baloise Group
-
-+++
-
-## Open-Source
-
-### Enablement
-
-[Workshop](https://github.com/open-insurance/events/issues/1) in February 2019 @ Helvetia
-
-first follow up event
+Markus Tiede and Ralf Fahney, Baloise Group
 
 +++
-
-# Open-Source++
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
@@ -28,23 +16,25 @@ first follow up event
 
 4 sessions
 
-### BOSCH and IOT
+#### OPIN ~ 9 - 11
 
-### Working Groups @ Eclipse Foundation
+#### InConnect ~ 11 - 12
 
-### open dialog / exchange
+#### OpenBanking ~ 13 - 14
 
-### RedHat CoPs
+#### APOSIN ~ 14 - 16
 
 ---
 
 ## orga
 
-morning in APA 028
+morning: APA A63 & A64 (from 11-12)
 
-lunch ~ 12.15
+lunch ~ 12.00 - 12.50
 
-afternoon according to X-Day plan
+afternoon: APA 029
+
+apero: 4. OG ~ 16.00
 
 free to join any session
 
