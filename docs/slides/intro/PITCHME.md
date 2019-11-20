@@ -23,9 +23,9 @@ Markus Tiede and Ralf Fahney, Baloise Group
 
 #### APOSIN ~ 14 - 16
 
-apero: 4. OG ~ 16
+apero: 4th floor ~ 16
 
 +++
 
----?image=https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg&size=contain
+---?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
 
