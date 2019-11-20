@@ -29,5 +29,13 @@ apero: 4th floor ~ 16
 
 +++
 
----?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
+---
+
+??? --> ask immediately
+
+Q&A : [menti.com](https://www.mentimeter.com/s/fa3894e1183fb6ab72588edc30c8ca58/657ffeb39be7)
+
+--> Comments / Discussion
+
++++?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
 
