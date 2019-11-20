@@ -12,23 +12,18 @@ Markus Tiede and Ralf Fahney, Baloise Group
 
 ---
 
-# agenda
+# agenda & orga
 
 #### OPIN ~ 9 - 10.40
-
-**coffee** ~ 10.40 - 11
-
+-> A64
 #### InConnect ~ 11 - 12
 
-**lunch** ~ 12.00 - 12.50
-
+-> 12.45: 029 
 #### OpenBanking ~ 13 - 14
 
 #### APOSIN ~ 14 - 16
 
-**coffee** ~ 15.00 - 15.20
-
-apero: 4. OG ~ 16.00
+apero: 4. OG ~ 16
 
 +++
 
