@@ -1,7 +1,5 @@
 # Open-Insurance Day - 01
 
-# please register → [here](https://www.eventbrite.com/e/open-insurance-day-01-registration-60297526525) ← for free
-
 ## date
 
 ### 09th May 2019
