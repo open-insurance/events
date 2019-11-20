@@ -4,7 +4,9 @@
 ## welcome & intro
 ### day 02
 
-Markus Tiede and Ralf Fahney, Baloise Group
+@MarkusTiede and Ralf Fahney, Baloise Group
+
+Software and Business Engineering CC
 
 +++
 
