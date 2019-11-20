@@ -12,7 +12,7 @@ Markus Tiede and Ralf Fahney, Baloise Group
 
 ---
 
-# agenda & orga
+### agenda & orga
 
 #### OPIN ~ 9 - 10.40
 -> A64
