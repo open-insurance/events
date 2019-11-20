@@ -31,7 +31,7 @@ apero: 4th floor ~ 16
 
 ??? → ask immediately
 
-Q&A : [menti.com](https://www.mentimeter.com/s/fa3894e1183fb6ab72588edc30c8ca58/657ffeb39be7)
+Q&A : [menti.com](https://www.mentimeter.com/s/0698420b081a23927a26aaa5a8be341b/108f65379b7e)
 
 → Comments / Discussion
 
@@ -43,7 +43,7 @@ Q&A : [menti.com](https://www.mentimeter.com/s/fa3894e1183fb6ab72588edc30c8ca58/
 
 ??? → ask immediately
 
-Q&A : [menti.com](https://www.mentimeter.com/s/4d603644c90bcc8d434a2048587bfe8f/b0f3ce51b26c)
+Q&A : [menti.com](https://www.mentimeter.com/s/a3e6e361f99c2f3e6d3d797d63ae693f/bced277400b0)
 
 → Comments / Discussion
 
