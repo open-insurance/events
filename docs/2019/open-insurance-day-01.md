@@ -29,7 +29,7 @@ Switzerland
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |  8.00 - 8.30  |                  arrival                        | ---                                                                              |
 |  8.30 - 9.00  |                  pitching                       | all                                                                              |
-|  9.00 - 9.10  |                 welcome & intro                 |         Baloise                                                                  |
+|  9.00 - 9.10  |                 [welcome & intro](https://gitpitch.com/open-insurance/events/master?p=docs/slides/intro)                 |         Baloise                                                                  |
 |  9.10 - 10.00 | Introduction to [Open-Insurance Initiative (OPIN)](https://openinsurance.io)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
 |  10.00 - 10.40 |   open discussion about Open-Insurance Initiative |                                     all                                       |
 |  10.40 - 11.00 |                 **coffee break**                |                                       all                                       |
