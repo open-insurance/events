@@ -27,26 +27,8 @@ Software and Business Engineering CC
 
 apero: 4th floor ~ 16
 
----
-
-??? → ask immediately
-
-Q&A : [menti.com](https://www.mentimeter.com/s/0698420b081a23927a26aaa5a8be341b/108f65379b7e)
-
-→ Comments / Discussion
-
-+++?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
+---?image=https://openinsurance.io/wp-content/uploads/2018/09/Open-Insurance_Logo_1000x1000.png&size=contain
 
 ---
-
----
-
-??? → ask immediately
-
-Q&A : [menti.com](https://www.mentimeter.com/s/a3e6e361f99c2f3e6d3d797d63ae693f/bced277400b0)
-
-→ Comments / Discussion
-
-+++
 
 # APOSIN
