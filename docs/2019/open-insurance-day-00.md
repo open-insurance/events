@@ -41,5 +41,4 @@ open space & participation @ X-Day
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
 |               | [UNO - Global Sustainable Development Goals 2030](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) | [Tatjana von Steiger](https://www.eda.admin.ch/deza/en/home/sdc/organisation/departments/global-cooperation.html) - Deputy Assistant Director General at Federal Department of Foreign Affairs FDFA, SDC, Global Cooperation |
 | [📊](http://open-insurance.org/binary/slides/oid-00-t3.pdf) | [Communities of Practice](https://github.com/redhat-cop) |                             RedHat                                      |
-|               |                                                 |                                                                                  |
 |               |                wrap up & feedback               |                                      Baloise                                     |
