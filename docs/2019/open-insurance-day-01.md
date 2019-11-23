@@ -21,28 +21,20 @@ Switzerland
 
 ### morning
 
-### A63 / A64
-
-|      time     |                       what                      |                                        who                                       |
+|     slides    |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
-|  8.00 - 8.30  |                  arrival                        | ---                                                                              |
-|  8.30 - 9.00  |                  pitching                       | all                                                                              |
-|  9.00 - 9.10  |                 [welcome & intro](https://gitpitch.com/open-insurance/events/master?p=docs/slides/intro)                 |         Baloise                                                                  |
-|  9.10 - 10.00 | Introduction to [Open-Insurance Initiative (OPIN)](https://openinsurance.io)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
-|  10.00 - 10.40 |   open discussion about Open-Insurance Initiative |                                     all                                       |
-|  10.40 - 11.00 |                 **coffee break**                |                                       all                                       |
-|  11.00 - 12.00 | Insurance alone is not enough! From managing policies to managing risks: [InConnect](https://www.inconnect.io) | [Onno Bloemers](https://www.linkedin.com/in/onnobloemers/) - Insurance Transformation, Innovative Risk & Prevention Solutions, Consultancy, InsurTech, Co-Author InsurTECH Book |
-|  12.00 - 13.00 |                    **lunch**                    |                                       all                                       |
+|               |                  arrival                        | ---                                                                              |
+|               |                  pitching                       | all                                                                              |
+|               |                 [welcome & intro](https://gitpitch.com/open-insurance/events/master?p=docs/slides/intro)                 |         Baloise                                                                  |
+|  [📊](http://open-insurance.org/binary/slides/oid-01-t1.pdf) | Introduction to [Open-Insurance Initiative (OPIN)](https://openinsurance.io)| [Fouad Husseini](https://www.linkedin.com/in/fouad-husseini-ba22a08/) - Founder at The Open Insurance Initiative |
+|               |   open discussion about Open-Insurance Initiative |                                     all                                       |
+|  [📊](http://open-insurance.org/binary/slides/oid-01-t2.pdf) | Insurance alone is not enough! From managing policies to managing risks: [InConnect](https://www.inconnect.io) | [Onno Bloemers](https://www.linkedin.com/in/onnobloemers/) - Insurance Transformation, Innovative Risk & Prevention Solutions, Consultancy, InsurTech, Co-Author InsurTECH Book |
 
 ## afternoon
 
-### APA-029
-
-|      time     |                       what                      |                                        who                                       |
+|     slides    |                       what                      |                                        who                                       |
 |:-------------:|:-----------------------------------------------:|:--------------------------------------------------------------------------------:|
-| 13.00 - 14.00 | The Myth of Open Banking and Ecosystems: "A tale of shadow economies, regulatory pressure, tech stacks, new business models & what is banking really about in the future. | [Frederik Gregaard](https://www.linkedin.com/in/gregaard/) - PwC Switzerland - Head Digital Financial Services; Director Advisory |
-| 14.00 - 15.00 | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
-| 15.00 - 15.20 |                **coffee break**                 |                                       all                                        |
-| 15.20 - 16.00 | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
-| 16.00 - 16.15 |                wrap up & feedback               |                                      Baloise                                     |
-|  16.00 - EOB  |                    **apero**                    |                                      Baloise                                     |
+|               | The Myth of Open Banking and Ecosystems: "A tale of shadow economies, regulatory pressure, tech stacks, new business models & what is banking really about in the future. | [Frederik Gregaard](https://www.linkedin.com/in/gregaard/) - PwC Switzerland - Head Digital Financial Services; Director Advisory |
+| [📊](http://open-insurance.org/binary/slides/oid-01-t4.pdf) | Introduction to [APOSIN & the Open Insurance Platform](https://aposin.org/about/) | [Markus Rothmüller](https://www.linkedin.com/in/markus-rothm%C3%BCller-458b1553/) - Geschäftsführer bei Allianz Technology GmbH |
+|               | open discussion about APOSIN & the Open Insurance Platform |                            all                                        |
+|               |                wrap up & feedback               |                                      Baloise                                     |
