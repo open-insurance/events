@@ -27,7 +27,7 @@ Switzerland
 |               |                    pitching                     |                                       all                                        |
 |               | [welcome & intro](https://gitpitch.com/open-insurance/events/master?p=docs/slides/intro) |         Baloise                         |
 | [📊](https://open-insurance.org/binary/slides/oid-00-t1.pdf) | [Bosch pursues an open strategy to transform IoT](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/) | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
-| [📊](https://open-insurance.org/binary/slides/oid-00-t2.pdf) | [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | Ralph Mueller - Managing Director at Eclipse Foundation Europe GmbH |
+| [📊](https://open-insurance.org/binary/slides/oid-00-t2.pdf) | [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | [Ralph Mueller](https://www.linkedin.com/in/ralphmuellerde/) - Managing Director at Eclipse Foundation Europe GmbH |
 |               | [Open-Organization & Open-Insurance](https://gitpitch.com/open-insurance/events/master?p=docs/slides/oo-oi) |            Baloise   |
 
 ## afternoon
