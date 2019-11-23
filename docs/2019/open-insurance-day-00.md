@@ -1,12 +1,12 @@
 # Open-Insurance Day - 01
 
-## date
+### co-hosted with Open X-Day aka [Open Friday](https://www.openfriday.org)
 
-### 09th May 2019
-
-## time
-
-### 8:00 - 16:30 
+## date & time
+``` 
+09th May 2019
+8:00 - 16:30 
+```
 
 ## location
 ```
@@ -16,10 +16,6 @@ Postfach 2275
 CH-4002 Basel
 Switzerland
 ```
-
-## format
-
-### co-hosted with Open X-Day aka [Open Friday](https://www.openfriday.org)
 
 ## agenda
 
