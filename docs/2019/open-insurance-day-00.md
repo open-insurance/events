@@ -32,9 +32,7 @@ Switzerland
 |               | [welcome & intro](https://gitpitch.com/open-insurance/events/master?p=docs/slides/intro) |         Baloise                         |
 | [📊](http://open-insurance.org/binary/slides/oid-00-t1.pdf) | [Bosch pursues an open strategy to transform IoT](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/) | [Dr. Steffen Evers](https://www.linkedin.com/in/steffen-evers-a6b7b79b/) - Director Open Source Services at Bosch Software Innovations |
 | [📊](http://open-insurance.org/binary/slides/oid-00-t2.pdf) | [Open Innovation - Working Groups](https://www.eclipse.org/org/workinggroups/about.php)        | [Gaël Blondelle](https://www.linkedin.com/in/gblondelle/) - Vice President, Ecosystem Development at Eclipse Foundation     |
-|               |                 **coffee break**                |                                       all                                        |
 |               | [Open-Organization & Open-Insurance](https://gitpitch.com/open-insurance/events/master?p=docs/slides/oo-oi) |            Baloise   |
-|               |                    **lunch**                    |                                       all                                        |
 
 ## afternoon
 open space & participation @ X-Day
@@ -45,4 +43,3 @@ open space & participation @ X-Day
 | [📊](http://open-insurance.org/binary/slides/oid-00-t3.pdf) | [Communities of Practice](https://github.com/redhat-cop) |                             RedHat                                      |
 |               |                                                 |                                                                                  |
 |               |                wrap up & feedback               |                                      Baloise                                     |
-|               |                    **apero**                    |                                      Baloise                                     |
