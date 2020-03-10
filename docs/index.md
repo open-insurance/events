@@ -2,7 +2,7 @@
 
 ## 2020
 
-### [Open-Insurance Day - 03](2020/open-insurance-day-02.md)
+### [Open-Insurance Day - 03](2020/open-insurance-day-03.md)
 
 ## 2019
 
